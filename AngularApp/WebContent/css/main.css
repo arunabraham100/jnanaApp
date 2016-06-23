@@ -1,0 +1,59 @@
+/*  main style sheet*/
+
+.active {
+	font-size: 16px;
+	padding-right: 12px;
+}
+
+/*To style the search button on home page*/
+.btn-info {
+	background-color: gray !important;
+    border: 1px solid gray !important;     
+}
+
+.fill { 
+    min-height: 100%;
+    height: 100%;
+}
+
+.glyphicon-bookmark:active {
+	cursor: pointer;
+	color: yellow !important;
+	transition: background 1000s;
+}
+
+.pagination {
+	float: right;
+}
+        
+.point {
+	cursor: pointer;
+}
+
+/*To align the trash icon in admin module*/
+.trashSt {
+	margin-top: 46px !important;	
+}
+
+/*To align the check box in admin module*/
+.check{
+	margin-bottom: -25px !important;
+}
+        
+h1 {
+	font-size: 22px;
+	font-weight: bold;
+	color: darkslategray;
+	margin-left: 20px;
+}
+
+html,body {
+	height: 100%;
+	width: 100%;
+}
+
+span {
+	color: black;
+	font-size: 12px !important;	
+}
+
