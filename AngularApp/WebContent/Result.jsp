@@ -93,7 +93,7 @@
 
 <div id="div1">
 <ul class="tab">
-  <li><a data-target="#"  class="tablinks"  ng-click="openopt($event, 'links')">Related Links</a></li>
+  <li><a data-target="#"  class="tablinks act"  ng-click="openopt($event, 'links')">Related Links</a></li>
   <li><a data-target="#"  active="true"   class="tablinks" ng-click="openopt($event, 'wordcloud')">Related Cloud</a></li>
   <li style="width:250px"><a data-target="#"  class="tablinks" ng-click="openopt($event, 'hierarchy')">Hierarchy Structure</a></li>
 </ul>

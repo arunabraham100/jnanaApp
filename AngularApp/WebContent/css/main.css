@@ -52,6 +52,11 @@ html,body {
 	width: 100%;
 }
 
+act:active{
+	
+	background-color: #ddd;
+}
+
 span {
 	color: black;
 	font-size: 12px !important;	
