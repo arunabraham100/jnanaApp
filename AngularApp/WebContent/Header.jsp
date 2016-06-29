@@ -2,7 +2,6 @@
  -->
 <table style="width: 100%;background-color:gainsboro;">
 <tr>
-
 <td>
 <h1>Jnana - A Knowledge Pool</h1>
 <nav style="top: 20px; right: 7em; margin-right: 8px; float: right; position: absolute;">
