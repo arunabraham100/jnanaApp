@@ -1,4 +1,4 @@
-var myApplication = angular.module('myApplication',['ngRoute','searchModule','adminModule','reportsModule','bmModule','angular-jqcloud']);
+var myApplication = angular.module('myApplication',['ngRoute','searchModule','adminModule','reportsModule','bmModule','angular-jqcloud','euTree.directive']);
 
 
 myApplication.config(['$routeProvider',

@@ -109,7 +109,7 @@
   
  
 <div id="hierarchy" class="tabcontent" style="height: 150px; !important" >
-  <ul style="list-style-type:circle">
+ <!--  <ul style="list-style-type:circle">
   <li>Lorem Epsum Dolor
   <ul style="list-style-type:circle">
   <li>Lorem Epsum Dolor
@@ -117,7 +117,12 @@
   <li>Lorem Epsum Dolor
   </ul>
   </ul>
-  </ul>
+  </ul> -->
+  
+  <eu-tree tree-data="roleList" node-id="roleId" node-name="roleName" node-state="expand" 
+  expand-icon="http://cfile23.uf.tistory.com/image/205B973A50C13F4B19D9BD" 
+  collapse-icon="http://cfile23.uf.tistory.com/image/1459193A50C13F4B1B05FB"
+   child-icon="http://cfile23.uf.tistory.com/image/165B663A50C13F4B196CCA"></eu-tree>
   
 </div>
 

@@ -2,7 +2,7 @@
 <html ng-app="myApplication">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" /> 
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Jnana</title>        
         <!-- Latest compiled JavaScript -->
        	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>    
